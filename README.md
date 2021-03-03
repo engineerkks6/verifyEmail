@@ -1,4 +1,10 @@
-![login](https://user-images.githubusercontent.com/69295859/109851043-32cb3f80-7c79-11eb-8091-2c3df3fe0b4f.png)
+_**Shreen Shots of The project:**_
+
+
+![Screenshot_20210303_234017](https://user-images.githubusercontent.com/69295859/109851920-3b704580-7c7a-11eb-8606-b8ceaf9c236a.jpg)
+
+
+
 # email_verify
 
 A new Flutter project.
